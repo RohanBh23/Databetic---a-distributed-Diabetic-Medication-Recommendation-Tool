@@ -1,4 +1,4 @@
-# Databetic - A Distributed Diabetic Medication Recommendation Tool
+# Databetic - A Distributed Diabetes Medication Recommendation Tool
 
 Recommendations
 Data Preparation:
