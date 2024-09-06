@@ -1,5 +1,15 @@
 # Databetic - A Distributed Diabetes Medication Recommendation Tool
 
+1. Data
+2. Data ingestion
+3. Spark preprocessing
+4. Mllib model
+5. Stream Processing
+6. Results and Outcome
+7. Conclusion
+8. References
+
+
 Recommendations
 Data Preparation:
 
